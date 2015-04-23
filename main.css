@@ -2,3 +2,12 @@ h1 {
 	font-size: 40px
 }
 
+.edit:hover {
+  color: #666;
+  background-color: #EEE;
+}
+
+.edit-input {
+  display: block;
+  width: 100%;
+}
